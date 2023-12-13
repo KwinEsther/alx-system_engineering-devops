@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n │ head
+head -n 3│ tail -n 1
