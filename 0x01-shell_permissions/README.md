@@ -1,1 +1,1 @@
-she permissions tasks
+tasks for shell permissions
